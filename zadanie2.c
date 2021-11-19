@@ -10,7 +10,7 @@
 double przyblizeniePI(int n){
     double result = 0;
     int i;
-    for(i = 0; i <= n; i++){
+    for(i = 1; i <= n; i++){
         result += pow(-1, (n-1))/(2*n-1);   
     }
     return result*4;
