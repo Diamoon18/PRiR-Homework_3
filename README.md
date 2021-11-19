@@ -195,4 +195,5 @@ Another function ```przyblizeniePI(int n)```in creating processes
     ...
 ```
 ### Results
-![z2](https://user-images.githubusercontent.com/72127610/142624657-1af74f8d-d29f-450a-9e24-fd8edbea2753.png)
+![z2-2](https://user-images.githubusercontent.com/72127610/142647723-f48e2b00-bdf3-4c72-919f-8815b54b2df6.jpg)
+
